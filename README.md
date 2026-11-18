@@ -164,7 +164,7 @@ As consultas sem solução foram **“Onde consigo remédio de graça?”** e **
 
 A busca foi ampliada com a expressão **`vinculos de emprego`** na orientação da Carteira de Trabalho Digital, para reconhecer uma forma adicional de consulta sobre registros profissionais. A alteração foi conferida executando a busca antes e depois da atualização do JSON; após a inclusão, o programa reconheceu a orientação correspondente.
 
-As observações acima são comentários da **verificação funcional do software**. A avaliação com pessoas externas à equipe e seus indicadores de compreensão dependem da realização de atendimentos por participantes.
+
 
 ## 9. Decisão técnica e limitações
 
@@ -172,6 +172,5 @@ A busca por pontuação foi escolhida porque pode ser explicada, testada e confe
 
 As principais limitações são a dependência de palavras-chave cadastradas, a impossibilidade de responder temas ausentes do JSON e a necessidade de revisão periódica das informações oficiais. A confiança apresentada indica **semelhança textual**, não certeza sobre a situação particular do cidadão nem garantia de que um benefício será concedido.
 
-**Integrações com outras disciplinas:** não foram utilizadas; o projeto foi construído de maneira independente, mantendo a busca por regras como funcionalidade principal.
 
 **Vídeo técnico:** [link do vídeo não listado a inserir após a publicação]
