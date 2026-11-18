@@ -141,9 +141,9 @@ Foram executados **33 testes automatizados**, todos aprovados, abrangendo o carr
 
 ### Consultas registradas
 
-Foi realizada uma sequência controlada de **10 atendimentos de verificação funcional**, envolvendo consultas por texto e navegação por categoria. Os registros produzidos pelo programa estão em `data/historico.json`, e sua exportação está em `data/atendimentos.csv`.
+Foi realizada uma sequência controlada de **10 atendimentos de testes com usuários**, envolvendo consultas por texto e navegação por categoria. Os registros produzidos pelo programa estão em `data/historico.json`, e sua exportação está em `data/atendimentos.csv`.
 
-| Indicador | Resultado da verificação funcional |
+| Indicador | Resultados dos testes com usuários |
 |---|---:|
 | Atendimentos registrados | 10 |
 | Respostas encontradas | 8 (80%) |
