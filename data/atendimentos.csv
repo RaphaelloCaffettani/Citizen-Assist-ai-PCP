@@ -1,0 +1,15 @@
+﻿data;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;tempo_segundos;facilidade
+2026-11-18T13:47:41+00:00;pergunta;Como faço o cartão do SUS?;1;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Como consultar número do CNS?;2;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Onde fica uma UBS perto de mim?;3;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Onde consigo remédio de graça?;;False;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Como consultar situação cadastral do CPF?;4;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Como regularizar CPF suspenso?;5;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Onde tiro meu primeiro título de eleitor?;6;True;;1;0.0;
+2026-11-18T13:47:41+00:00;categoria;Acessar Carteira de Trabalho Digital;8;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Como pedir seguro desemprego?;9;True;;1;0.0;
+2026-11-18T13:47:41+00:00;pergunta;Como pedir segunda via da conta de luz?;;False;;1;0.0;
+2026-11-18T13:37:41-03:00;pergunta;Como faço o cartão do SUS?;1;True;True;1;15.6;
+2026-11-18T13:40:33-03:00;categoria;Acessar Carteira de Trabalho Digital;8;True;;1;154.6;
+2026-11-18T13:41:02-03:00;categoria;Solicitar seguro-desemprego;9;True;;1;23.4;5
+2026-11-18T13:43:54-03:00;pergunta;Como posso consultar meu CPF?;5;True;;2;150.7;

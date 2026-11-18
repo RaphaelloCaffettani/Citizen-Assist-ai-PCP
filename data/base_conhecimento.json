@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Solicitar Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "fazer cartao sus",
+      "solicitar cartao nacional de saude"
+    ],
+    "resposta": "Para solicitar o Cartão Nacional de Saúde (CNS), procure um estabelecimento de saúde do seu município, como uma UBS. O cartão identifica o usuário na rede do SUS. Os procedimentos podem variar conforme o município.",
+    "documentos": [
+      "Documento oficial de identificação",
+      "CPF",
+      "Certidão de nascimento ou casamento, quando solicitada no cadastro"
+    ],
+    "onde": "Estabelecimento de saúde do município (como uma UBS)",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/faq/tematicos-e-outros/como-conseguir-o-cartao-sus",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Consultar número do Cartão SUS no Meu SUS Digital",
+    "palavras_chave": [
+      "numero do cartao sus",
+      "consultar numero do cns",
+      "ver numero cns",
+      "numero do sus",
+      "encontrar numero cartao sus",
+      "cartao sus",
+      "numero do cartao",
+      "numero cns",
+      "numero do cns",
+      "mostra meu cartao sus",
+      "meu cartao sus"
+    ],
+    "resposta": "No Meu SUS Digital, abra Perfil, selecione o ícone do cartão e vire o cartão na tela. O número do CNS aparece na parte de trás do cartão digital.",
+    "documentos": [
+      "Acesso ao Meu SUS Digital com a autenticação exigida pela plataforma"
+    ],
+    "onde": "Aplicativo ou versão web do Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/10-onde-encontro-o-numero",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Encontrar uma UBS pelo Meu SUS Digital",
+    "palavras_chave": [
+      "encontrar ubs",
+      "ubs perto de mim",
+      "posto de saude perto",
+      "localizar unidade de saude",
+      "onde fica ubs",
+      "ubs",
+      "uma ubs",
+      "posto de saude"
+    ],
+    "resposta": "O Meu SUS Digital permite consultar estabelecimentos de saúde, incluindo Unidades Básicas de Saúde (UBS), de acordo com a localização consultada e visualizar rotas de acesso. Confirme endereço e horário da unidade antes de ir.",
+    "documentos": [
+      "Acesso ao Meu SUS Digital",
+      "Para procurar a unidade, não é preciso informar seus dados pessoais a este assistente"
+    ],
+    "onde": "Meu SUS Digital (consulta de estabelecimentos de saúde)",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/2-quais-os-servicos-que",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Consultar situação cadastral do CPF",
+    "palavras_chave": [
+      "consultar cpf",
+      "consultar situacao cpf",
+      "verificar cpf",
+      "cpf regular",
+      "comprovante de cpf"
+    ],
+    "resposta": "A Receita Federal permite consultar a situação cadastral do CPF e emitir o comprovante pela internet. Informe os dados solicitados somente no serviço oficial, nunca neste assistente.",
+    "documentos": [
+      "Número do CPF e demais dados exigidos pelo serviço oficial"
+    ],
+    "onde": "Portal da Receita Federal, na opção Consultar CPF",
+    "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Regularizar CPF suspenso ou pendente",
+    "palavras_chave": [
+      "regularizar cpf",
+      "cpf suspenso",
+      "cpf pendente",
+      "corrigir cpf",
+      "atualizar cpf",
+      "cpf esta suspenso",
+      "cpf ta suspenso",
+      "meu cpf esta suspenso",
+      "regularizar meu cpf",
+      "cpf esta pendente",
+      "meu cpf esta pendente"
+    ],
+    "resposta": "Primeiro, consulte a situação cadastral na Receita Federal. Se estiver suspenso, verifique como corrigir dados incorretos ou incompletos. Se estiver pendente de regularização, confira se existe declaração de imposto de renda em atraso. O procedimento depende do motivo da pendência.",
+    "documentos": [
+      "CPF",
+      "Documento oficial com foto, se for necessário atendimento presencial",
+      "Outros documentos indicados pela Receita Federal para a situação apresentada"
+    ],
+    "onde": "Portal Meu CPF da Receita Federal; atendimento presencial se indicado no procedimento",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Tirar o primeiro título de eleitor",
+    "palavras_chave": [
+      "primeiro titulo",
+      "tirar titulo de eleitor",
+      "fazer titulo eleitoral",
+      "alistamento eleitoral",
+      "solicitar titulo eleitor"
+    ],
+    "resposta": "O primeiro título pode ser solicitado pelo Autoatendimento Eleitoral - Título Net, conforme as regras e prazos eleitorais vigentes. A Justiça Eleitoral poderá exigir comparecimento para identificação ou biometria. Confira as condições no TSE.",
+    "documentos": [
+      "Documento que comprove identidade e nacionalidade",
+      "Comprovante de vínculo ou residência no município",
+      "Comprovante de quitação militar, somente quando exigido pelas regras eleitorais"
+    ],
+    "onde": "Autoatendimento Eleitoral - Título Net (TSE) ou unidade da Justiça Eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Documentos",
+    "titulo": "Emitir certidão de quitação eleitoral",
+    "palavras_chave": [
+      "certidao de quitacao eleitoral",
+      "quitacao eleitoral",
+      "comprovante de quitacao",
+      "emitir certidao eleitoral",
+      "certidao eleitoral"
+    ],
+    "resposta": "A certidão de quitação eleitoral pode ser emitida e validada no Autoatendimento Eleitoral do TSE ou no aplicativo e-Título. Se houver impedimento, consulte a zona eleitoral responsável.",
+    "documentos": [
+      "Dados de identificação eleitoral solicitados somente pelo serviço oficial"
+    ],
+    "onde": "Autoatendimento Eleitoral - Título Net ou aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Acessar Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho digital",
+      "ctps digital",
+      "carteira digital",
+      "abrir carteira de trabalho",
+      "consultar contrato de trabalho",
+      "vinculos de emprego"
+    ],
+    "resposta": "A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pela página do serviço no gov.br. Ela reúne informações de vínculos e contratos de trabalho. O acesso é feito com uma conta gov.br.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br para autenticação no serviço oficial"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou serviço Obter a Carteira de Trabalho no gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Trabalho",
+    "titulo": "Solicitar seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "pedir seguro desemprego",
+      "solicitar seguro desemprego",
+      "requerimento seguro desemprego",
+      "beneficio desemprego"
+    ],
+    "resposta": "Quem atende aos requisitos legais pode solicitar o seguro-desemprego pelos canais oficiais, inclusive pelo aplicativo Carteira de Trabalho Digital. O benefício não é automático: é necessário conferir as condições e os prazos vigentes no portal do serviço.",
+    "documentos": [
+      "Documento de Requerimento do Seguro-Desemprego, fornecido pelo empregador",
+      "CPF"
+    ],
+    "onde": "Portal de serviços do gov.br, Carteira de Trabalho Digital ou canais do Ministério do Trabalho",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Trabalho",
+    "titulo": "Consultar abono salarial",
+    "palavras_chave": [
+      "abono salarial",
+      "consultar pis pasep",
+      "ver abono salarial",
+      "receber abono salarial",
+      "consultar abono"
+    ],
+    "resposta": "A consulta do abono salarial, quando disponível no calendário oficial, pode ser feita pela Carteira de Trabalho Digital ou pelo portal gov.br. O direito e o pagamento dependem de requisitos legais e do ano-base; o assistente não confirma elegibilidade individual.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br para consultar a informação no canal oficial"
+    ],
+    "onde": "Carteira de Trabalho Digital ou portal gov.br; dúvidas também pelo canal 158",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/abono-salarial",
+    "verificado_em": "2026-11-17"
+  }
+]
