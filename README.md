@@ -173,4 +173,4 @@ A busca por pontuação foi escolhida porque pode ser explicada, testada e confe
 As principais limitações são a dependência de palavras-chave cadastradas, a impossibilidade de responder temas ausentes do JSON e a necessidade de revisão periódica das informações oficiais. A confiança apresentada indica **semelhança textual**, não certeza sobre a situação particular do cidadão nem garantia de que um benefício será concedido.
 
 
-**Vídeo técnico:** [link do vídeo não listado a inserir após a publicação]
+**Vídeo técnico:** https://youtu.be/rgELYl_Qt-Q
